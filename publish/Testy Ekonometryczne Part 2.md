@@ -58,9 +58,9 @@ $$d\approx 2(1-\hat{\rho})$$
 3. Na podstawie tych przedziałów dopasuj.
 
 
-|     |   $d_L$  |       | $d_U$    |     |
-| --- | --- | --- | --- | --- |
-|  $H_0$   |   I  | Nierozstrzający    |  I   | $H_1$    |
+|       | $d_L$ |                 | $d_U$ |       |
+| ----- | ----- | --------------- | ----- | ----- |
+| $H_0$ | I     | Nierozstrzający | I     | $H_1$ |
 
 ## Test mnożnika Lagrange'a
 
@@ -68,8 +68,22 @@ $$d\approx 2(1-\hat{\rho})$$
 
 # Badanie Homoskedastyczności
 ## Test Godfelda-Quandta 
-
+### Informacje
+Należy go zastosować wtedy kiedy heteroskedastyczność została spowodowana przez jedną zmienną. Jeśli została spowodowana przez kilka lepiej użyć testu White'a lub testu Harveya-Godfreya.
 ## Test White'a
+### Hipoteza
+$H_0: \sigma_i^2 = \sigma^2$  
+$H_1:$ Nie wszystkie $\sigma_i^2$ są równe $\sigma^2$
+### Procedura 
+1. Szacujemy parametry modelu wyjściowego $y_i = \beta_0 + \beta_1 x_{1i} + \dots + \beta_k x_{ki} + \epsilon_i$.
+2. Wyznaczamy kwadraty reszt modelu wyjściowego. Uznajemy je za realizację wariancji składników losowych.
+3. Szacujemy parametry modelu pomocniczego.
+    - W teście White'a wartościami zmiennej objaśnianej są kwadraty reszt modelu wyjściowego, a zmiennymi objaśniającymi zmienne $x_{1i}, x_{2i}, \dots, x_{ki}, x_{1i}^2, x_{2i}^2, \dots, x_{ki}^2, x_{1i} x_{2i}, x_{1i} x_{3i}, \dots, x_{li} x_{ji}$, gdzie $l = 1, 2, \dots, k$, $j \neq l$.
+    - W przypadku testu Harveya-Godfreya wartościami zmiennej objaśnianej są logarytmy naturalne kwadratów reszt modelu wyjściowego, a zmiennymi objaśniającymi zmienne $x_{1i}, x_{2i}, \dots, x_{ki}$.
+4. Wyznaczamy wartość statystyki $nR^2$, gdzie $n$ jest liczebnością próby, a $R^2$ współczynnikiem determinacji w modelu pomocniczym. Porównujemy $nR^2$ z wartością krytyczną testu chi-kwadrat dla poziomu istotności $\alpha$ i $p$ stopni swobody $\chi^2_{p,\alpha}$, gdzie $p$ jest liczbą zmiennych objaśniających w modelu pomocniczym.
+    - W teście White'a $p = \frac{(k+1)(k+2)}{2} - 1$.
+    - Dla testu Harveya-Godfreya $p = k$.
+5. Jeśli $nR^2 > \chi^2_{p,\alpha}$ to odrzucamy hipotezę o homoskedastyczności, natomiast jeśli $nR^2 \leq \chi^2_{p,\alpha}$ to nie ma podstaw do odrzucenia hipotezy zerowej o homoskedastyczności.
 
 ## Test Harveya-Godfreya
 
