@@ -45,22 +45,28 @@ Jak można się domyślić reengineering jest dosyć kosztowny i trudny w realiz
 # **4. Bariery w ustalaniu celów**
 
 
-# Benchmarking
+# Zarządzanie Strategiczne
+## **Benchmarking**
 Benchmarking to porównywanie się z innymi firmami które są liderami w branży. 
 ### Piosenka o Benchmarkingu
 Benchmarking to analizowanie klientów
 Tych których bardzo nie lubisz i tych z którymi sie czubisz
 Koniec
-# Łańcuch wartości
+## **Łańcuch wartości**
 Otóż koncepcja łańcucha wartości polega na tym że firma to system i przewagą firmy nie jest lepsze działanie jej całej tylko jej poszczególnych systemów.
-# Metody scenariuszowe
+## **Metody scenariuszowe**
 Otóż tak jak można się spodziewać po nazwie przygotowuje się różne scenariusze na różne sytuacje. Np na dobrą sytuacje na rynku czy na złą. Przygotowuje się także scenariusze na sytuacje które mogą dotyczyć firmy takie jak np. zerwanie kluczowego kontraktu itp. 
-# Analiza BCG
+## **Analiza BCG**
 Bardzo fajna analiza która zasoby przedsiębiorstwa a dokładniej jej produkty/uslugi które sprzedaje.
 ![[Pasted image 20250605120704.png]]
-# Analiza pięciu sił M.E Portera
+## **Analiza pięciu sił M.E Portera**
 Otóż jest to analiza której celem jest określenie sytuacji konkurencyjnej firmy. Analizuje ona dany sektor czyli firmy produkujące substytuty. Mamy 
 ![[Pasted image 20250605121221.png]]
+# Przewodzenie
+## **Styl Demokratyczny**
+Styl demokratyczny opiera się na osobie kierownika który razem z podwładnymi podejmuje ważne decyzjie dając im możliwości wypowiadania się, dyskusji. Kierownik musi być osobą charyzmatyczną tak żeby mógł przekonać swoich podwładnych do swoich tez a jednocześnie dobrze znającą się na rzeczy tak żeby te tezy były słuszne. Łatwo można wyobrazić sobie kierownika który nie jest charyzmatyczny i daje się zakrzyczeć swoim pracownikom a w rezultacie staje się albo ich marionetką albo tyranem który zaczyna podejmować decyzje bez jakichkolwiek konsultacji ze swoimi podwładnymi. Kierownik swoich pracowników motywuje nagrodami. Nie kontroluje procwsów w najmniejszym szczególe tylko zostawia to pracownikom natomiast jest otwarty na ich problemy i słucha ich uważnie.
+## **Teoria oczekiwań Victora H. Vrooma**
+
 # Test
 
 Do przesłanek wdrażania Benchmarkingu należy to, że ta koncepcja:
@@ -75,34 +81,32 @@ Do przesłanek wdrażania Benchmarkingu należy to, że ta koncepcja:
 - X **podstawą koncepcji łańcucha wartości jest systemowe podejście do biznesu**
 - X**metody scenariuszowe pozwalają firmie określić kluczowe czynniki sukcesu**
 - macierz BCG jest stosowana w badaniach zmian nieciągłych na rynku
-- celem analizy "5 sił Portera" jest określenie sytuacji konkurencyjnej firmy w sektorze
+- X **celem analizy "5 sił Portera" jest określenie sytuacji konkurencyjnej firmy w sektorze**
 
 **Do najczęstszych błędów przy dokonywaniu zmian należy:**
 
 - skuteczne przekonywanie ludzi do konieczności zmiany
 - zbyt duża ilość zasobów materialnych i niematerialnych utrudniająca organizację pracy
-- wprowadzanie zbyt wielu zmian w zbyt krótkim czasie
-- niskiej jakości analizy, oceny i monitorowanie rezultatów zmiany
+- X**wprowadzanie zbyt wielu zmian w zbyt krótkim czasie**
+- X**niskiej jakości analizy, oceny i monitorowanie rezultatów zmiany**
 
 **Demokratyczny styl przewodzenia cechuje to, że:**
 
-- wymaga od kierownika umiejętności wczuwania się w sytuację współpracowników
+- X**wymaga od kierownika umiejętności wczuwania się w sytuację współpracowników**
 - kierownik w minimalnym stopniu interesuje się problemami swoich podwładnych
-- wymaga od kierownika silnej osobowości i ugruntowanej wiedzy fachowej
+- X**wymaga od kierownika silnej osobowości i ugruntowanej wiedzy fachowej**
 - kierownik niechętnie przyjmuje przejawy inicjatywy ze strony podwładnych
 
 **Do przyczyn niepowodzeń w planowaniu należy:**
 
-- przygotowywanie planów przez grupę odrębną, nieuczestniczącą w zarządzaniu firmą
-- zbyt skomplikowane plany wynikające z dążenia planistów do uwzględnienia zmian w otoczeniu
+- **przygotowywanie planów przez grupę odrębną, nieuczestniczącą w zarządzaniu firmą**
+- **zbyt skomplikowane plany wynikające z dążenia planistów do uwzględnienia zmian w otoczeniu**
 - opracowywanie prostych planów, które dotyczą tylko poszczególnych funkcji działania
 - uwzględnianie zmian koniunkturalnych na rynku i bazowanie na prognozach
 
 **Teoria oczekiwań Victora H. Vrooma zakłada, że:**
 
 - ludzie dążą do sprawiedliwości społecznej i porównują się do współpracowników
-- ludzie dokonują wyborów spośród alternatywnych planów zachowania
-- zachowanie człowieka jest funkcją sił tkwiących w nim samym i jego otoczeniu
+- X**ludzie dokonują wyborów spośród alternatywnych planów zachowania**
+- X**zachowanie człowieka jest funkcją sił tkwiących w nim samym i jego otoczeniu**
 - źródłem motywacji dla pracowników są nieuświadomione impulsy wewnętrzne
-
-Koniec
