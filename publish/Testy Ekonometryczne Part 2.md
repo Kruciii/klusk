@@ -60,7 +60,7 @@ $$d\approx 2(1-\hat{\rho})$$
 
 |       | $d_L$ |                 | $d_U$ |       |
 | ----- | ----- | --------------- | ----- | ----- |
-| $H_0$ | I     | Nierozstrzający | I     | $H_1$ |
+| $H_1$ | I     | Nierozstrzający | I     | $H_0$ |
 
 ## Test mnożnika Lagrange'a
 
