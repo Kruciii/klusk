@@ -44,6 +44,10 @@ Jest to wzięcie na tapet procesów które aktualnie istnieją w firmie i przepr
 Jak można się domyślić reengineering jest dosyć kosztowny i trudny w realizacji i niesie za sobą wiele ryzyka. Natomiast jeśli jest wykonany poprawnie potrafi przynieść bardzo duże wzrosty wydajności. 
 # **4. Bariery w ustalaniu celów**
 
+
+
+
+-------------------------------------------------------
 # Nurty w zarządzaniu
 
 ### **Podejście ilościowe**
