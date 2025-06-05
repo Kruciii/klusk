@@ -94,91 +94,91 @@ Metody stymulowania konfliktu: (?)
 
 Kultura roli cechuje się:
 
-- **Główny nacisk położony jest na to, by praca została wykonana**.
-- **Decyzje są podejmowane raczej pod wpływem priorytetów liderów**.
-- **Ukierunkowana na pracę zespołową, na grupę osiągającą wspólny cel**.
-- **Nadmierna biurokracja sprawia, że sprawdza się w otoczeniu stabilnym**.
+- Główny nacisk położony jest na to, by praca została wykonana.
+- Decyzje są podejmowane raczej pod wpływem priorytetów liderów.
+- Ukierunkowana na pracę zespołową, na grupę osiągającą wspólny cel.
+- Nadmierna biurokracja sprawia, że sprawdza się w otoczeniu stabilnym.
 
 Ograniczenia nurtu klasycznego w zarządzaniu:
 
-- **Współczesne rezultaty badań często nie docierają do praktyków w zrozumiałej formie**.
-- **Zapropnowane uniwersalne wytyczne nie pasują do każdej organizacji**.
-- **Złożoność zachowania indywidualnego utrudnia jego trafne przewidywanie**.
-- **Nurt bazował na słabości roli jednostki**.
+- Współczesne rezultaty badań często nie docierają do praktyków w zrozumiałej formie.
+- Zapropnowane uniwersalne wytyczne nie pasują do każdej organizacji.
+- **Złożoność zachowania indywidualnego utrudnia jego trafne przewidywanie.**
+- **Nurt bazował na słabości roli jednostki.**
 
 Etapy dokonywania zmian organizacyjnych:
 
-1. **Konkretyzacja potrzeby zmian**.
-2. **Konkretyzacja celu i zakresu zmian**.
-3. **Przygotowanie planu realizacji zmiany**.
-4. **Uzyskanie gotowości kierowników i pracowników do wdrożenia zmiany**.
+1. Konkretyzacja potrzeby zmian.
+2. Konkretyzacja celu i zakresu zmian.
+3. Przygotowanie planu realizacji zmiany.
+4. Uzyskanie gotowości kierowników i pracowników do wdrożenia zmiany.
 
 Zestaw cech prowadzących do doskonałości:
 
-- **Utrzymanie złożonej struktury organizacyjnej**.
-- **Szybkie rozwiązywanie problemów organizacyjnych**.
-- **Popieranie autonomii i przedsiębiorczości**.
-- **Wykorzystanie bezpośredniego podejścia do kierowania**.
+- Utrzymanie złożonej struktury organizacyjnej.
+- X**Szybkie rozwiązywanie problemów organizacyjnych.**
+- X**Popieranie autonomii i przedsiębiorczości**.
+- Wykorzystanie bezpośredniego podejścia do kierowania. (?)
 
 Analiza luki strategicznej:
 
-- **Celem jest określenie sytuacji konkurencyjnej firmy w sektorze**.
+- Celem jest określenie sytuacji konkurencyjnej firmy w sektorze.
 - **Odnosi się do zjawisk mierzalnych i powtarzalnych**.
-- **Wykorzystywana do badania strategii dla poszczególnych produktów**.
-- **Ilustruje dopasowanie strategii firmy do dynamiki zmian otoczenia**.
+- Wykorzystywana do badania strategii dla poszczególnych produktów.
+- X**Ilustruje dopasowanie strategii firmy do dynamiki zmian otoczenia.**
 
 Ograniczenia spojrzenia behawioralnego:
 
-- **Ludzie, mimo szkoleń, popełniają błędy w procesach produkcyjnych**.
-- **Rezultaty badań behawioralnych często nie docierają do praktyków w zrozumiałej formie**.
-- **Wydajność pracy w przedsiębiorstwie zależy od kapitału ludzkiego**.
-- **Złożoność zachowania indywidualnego utrudnia jego trafne przewidywanie**.
+- Ludzie, mimo szkoleń, popełniają błędy w procesach produkcyjnych.
+- **Rezultaty badań behawioralnych często nie docierają do praktyków w zrozumiałej formie.**
+- Wydajność pracy w przedsiębiorstwie zależy od kapitału ludzkiego.
+- **Złożoność zachowania indywidualnego utrudnia jego trafne przewidywanie.**
 
 Zmiany w organizacji pod wpływem Reengineeringu:
 
-- **Stanowiska z odpowiedzialnością i autonomią zastępowane są przez stanowiska kontrolowane**.
-- **Struktury spłaszczone stają się bardziej hierarchiczne**.
-- **Tradycyjne komórki funkcjonalne zastępowane są zespołami odpowiedzialnymi za dany proces**.
-- **Kryterium wynagrodzenia odnosi się w większym stopniu do efektów niż do aktywności**.
+- Stanowiska z odpowiedzialnością i autonomią zastępowane są przez stanowiska kontrolowane.
+- Struktury spłaszczone stają się bardziej hierarchiczne.
+- X **Tradycyjne komórki funkcjonalne zastępowane są zespołami odpowiedzialnymi za dany proces.**
+- X**Kryterium wynagrodzenia odnosi się w większym stopniu do efektów niż do aktywności.**
 
-Bariery w ustalaniu celów i planowaniu:
+Bariery w ustalaniu celów i planowaniu: (?)
 
-- **Zbyt złożona struktura organizacyjna przedsiębiorstwa**.
-- **Niewłaściwy system nagradzania**.
-- **Brak rozwoju przedsiębiorstwa na rynku**.
-- **Dynamiczne i złożone otoczenie**.
+- X **Zbyt złożona struktura organizacyjna przedsiębiorstwa.**
+- Niewłaściwy system nagradzania.
+- Brak rozwoju przedsiębiorstwa na rynku.
+- X **Dynamiczne i złożone otoczenie.**
 
-Treści nie dotyczące nurtu naukowego zarządzania:
+Treści nie dotyczące nurtu naukowego zarządzania: 
 
-- **Naukowe opracowanie każdego elementu pracy na danym stanowisku**.
-- **Naukowe określenie postaw i zachowań pracowników oraz procesów grupowych**.
-- **Naukowy dobór pracowników i przygotowanie ich do wykonywania pracy**.
-- **Naukowe rozpoznanie sposobów rozwiązywania konfliktów w miejscach pracy**.
+- Naukowe opracowanie każdego elementu pracy na danym stanowisku.
+- Naukowe określenie postaw i zachowań pracowników oraz procesów grupowych.
+- Naukowy dobór pracowników i przygotowanie ich do wykonywania pracy.
+- Naukowe rozpoznanie sposobów rozwiązywania konfliktów w miejscach pracy.
 
-Sposoby użycia władzy:
+Sposoby użycia władzy: (?)
 
-- **Racjonalna perswazja** – przekonanie, że wykonanie zadania leży w interesie pracownika.
-- **Uwzględnienie opinii grupy** – ze względu na większą wiedzę.
-- **Szczegółowe opisywanie poleceń do wykonania na stanowisku pracy**.
-- **Instrumentalne zastosowanie się w celu uzyskania nagrody**.
+- Racjonalna perswazja – przekonanie, że wykonanie zadania leży w interesie pracownika.
+- Uwzględnienie opinii grupy – ze względu na większą wiedzę.
+- Szczegółowe opisywanie poleceń do wykonania na stanowisku pracy.
+- Instrumentalne zastosowanie się w celu uzyskania nagrody.
 
-Źle zdefiniowane więzi organizacyjne:
+Źle zdefiniowane więzi organizacyjne: 
 
-- **Informacyjna** – polega na wzajemnym informowaniu się w zakresie realizowanych zadań i podejmowanych decyzji.
-- **Strukturalna** – łączy stanowiska pracy w przedsiębiorstwie według rodzaju produktów i usług.
-- **Funkcjonalna** – łączy stanowiska i grupy stanowisk pracy realizujące różne funkcje w organizacji.
-- **Służbowa (hierarchiczna)** – łączy kierowników różnych szczebli rządzenia z ich podwładnymi.
+- Informacyjna – polega na wzajemnym informowaniu się w zakresie realizowanych zadań i podejmowanych decyzji.
+- Strukturalna – łączy stanowiska pracy w przedsiębiorstwie według rodzaju produktów i usług.
+- Funkcjonalna – łączy stanowiska i grupy stanowisk pracy realizujące różne funkcje w organizacji.
+- Służbowa (hierarchiczna) – łączy kierowników różnych szczebli rządzenia z ich podwładnymi.
 
 Założenia teorii Y McGregora:
 
-- **Ludzie są przywiązani do celów w stopniu odpowiadającym osobistym nagrodom za ich osiągnięcie**.
-- **Ludzie wolą, by nimi kierowano, pragną unikać odpowiedzialności i cenią bezpieczeństwo**.
-- **W skrajnych warunkach pracy ludzie dążą do odpowiedzialności oraz ją podejmują**.
-- **Ludzie nie są zdolni do nowatorskiego podejścia do rozwiązywania problemów organizacji**.
+- Ludzie są przywiązani do celów w stopniu odpowiadającym osobistym nagrodom za ich osiągnięcie.
+- X**Ludzie wolą, by nimi kierowano, pragną unikać odpowiedzialności i cenią bezpieczeństwo.**
+- W skrajnych warunkach pracy ludzie dążą do odpowiedzialności oraz ją podejmują.
+- X**Ludzie nie są zdolni do nowatorskiego podejścia do rozwiązywania problemów organizacji.**
 
 Teorie wzmocnienia w procesie motywacji:
 
-- **Głoszą, że głównym źródłem motywacji są nieuświadomione impulsy wewnętrzne, głównie potrzeby**.
-- **Sugerują, że motywacja zależy od siły pragnienia i oczekiwanego prawdopodobieństwa jego zaspokojenia**.
-- **Zajmują się tym, jak skutki poprzedniego działania ludzi wpłyną na ich zachowania w przyszłości**.
-- **Wyjaśniają, dlaczego ludzie wybierają pewne warianty zachowań do zaspokojenia swoich potrzeb**.
+- Głoszą, że głównym źródłem motywacji są nieuświadomione impulsy wewnętrzne, głównie potrzeby.
+- Sugerują, że motywacja zależy od siły pragnienia i oczekiwanego prawdopodobieństwa jego zaspokojenia.
+- X **Zajmują się tym, jak skutki poprzedniego działania ludzi wpłyną na ich zachowania w przyszłości.**
+- Wyjaśniają, dlaczego ludzie wybierają pewne warianty zachowań do zaspokojenia swoich potrzeb.
