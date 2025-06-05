@@ -50,8 +50,17 @@ Benchmarking to porównywanie się z innymi firmami które są liderami w branż
 ### Piosenka o Benchmarkingu
 Benchmarking to analizowanie klientów
 Tych których bardzo nie lubisz i tych z którymi sie czubisz
-
 Koniec
+# Łańcuch wartości
+Otóż koncepcja łańcucha wartości polega na tym że firma to system i przewagą firmy nie jest lepsze działanie jej całej tylko jej poszczególnych systemów.
+# Metody scenariuszowe
+Otóż tak jak można się spodziewać po nazwie przygotowuje się różne scenariusze na różne sytuacje. Np na dobrą sytuacje na rynku czy na złą. Przygotowuje się także scenariusze na sytuacje które mogą dotyczyć firmy takie jak np. zerwanie kluczowego kontraktu itp. 
+# Analiza BCG
+Bardzo fajna analiza która zasoby przedsiębiorstwa a dokładniej jej produkty/uslugi które sprzedaje.
+![[Pasted image 20250605120704.png]]
+# Analiza pięciu sił M.E Portera
+Otóż jest to analiza której celem jest określenie sytuacji konkurencyjnej firmy. Analizuje ona dany sektor czyli firmy produkujące substytuty. Mamy 
+![[Pasted image 20250605121221.png]]
 # Test
 
 Do przesłanek wdrażania Benchmarkingu należy to, że ta koncepcja:
@@ -63,8 +72,8 @@ Do przesłanek wdrażania Benchmarkingu należy to, że ta koncepcja:
 
 **Zaznacz prawdziwe zdanie/a:**
 
-- podstawą koncepcji łańcucha wartości jest systemowe podejście do biznesu
-- metody scenariuszowe pozwalają firmie określić kluczowe czynniki sukcesu
+- X **podstawą koncepcji łańcucha wartości jest systemowe podejście do biznesu**
+- X**metody scenariuszowe pozwalają firmie określić kluczowe czynniki sukcesu**
 - macierz BCG jest stosowana w badaniach zmian nieciągłych na rynku
 - celem analizy "5 sił Portera" jest określenie sytuacji konkurencyjnej firmy w sektorze
 
@@ -96,4 +105,4 @@ Do przesłanek wdrażania Benchmarkingu należy to, że ta koncepcja:
 - zachowanie człowieka jest funkcją sił tkwiących w nim samym i jego otoczeniu
 - źródłem motywacji dla pracowników są nieuświadomione impulsy wewnętrzne
 
-22.06.2024
+Koniec
