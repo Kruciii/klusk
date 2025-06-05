@@ -155,7 +155,7 @@ Treści nie dotyczące nurtu naukowego zarządzania:
 - Naukowy dobór pracowników i przygotowanie ich do wykonywania pracy.
 - Naukowe rozpoznanie sposobów rozwiązywania konfliktów w miejscach pracy.
 
-Sposoby użycia władzy: (?)
+Sposoby użycia władzy: (?)a
 
 - Racjonalna perswazja – przekonanie, że wykonanie zadania leży w interesie pracownika.
 - Uwzględnienie opinii grupy – ze względu na większą wiedzę.
