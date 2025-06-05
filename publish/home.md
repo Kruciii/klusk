@@ -5,4 +5,4 @@ excerpt: Create your own template or use someone else's. Changing the template i
 
 [[Testy Ekonometryczne Part 2]]
 [[Zadania na jutro]]
-[[Zarządzanie Study Guide]]
+[[Zarządzanie]]
