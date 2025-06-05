@@ -51,13 +51,13 @@ Jak można się domyślić reengineering jest dosyć kosztowny i trudny w realiz
 # Nurty w zarządzaniu
 
 ### **Podejście ilościowe**
-Podejście ilościowe rozwinęło się podczas drugiej wojny światowej
+Podejście ilościowe rozwinęło się podczas drugiej wojny światowej. Wykorzystywanie modeli matematycznych np. simplex do zarządzania.
 # Zarządzanie Strategiczne
 ## **Benchmarking**
 Benchmarking to porównywanie się z innymi firmami które są liderami w branży. 
 ### Piosenka o Benchmarkingu
 Benchmarking to analizowanie klientów
-Tych których bardzo nie lubisz i tych z którymi sie czubisz
+Tych których bardzo nie lubisz i tych z którymi się czubisz
 Koniec
 ## **Łańcuch wartości**
 Otóż koncepcja łańcucha wartości polega na tym że firma to system i przewagą firmy nie jest lepsze działanie jej całej tylko jej poszczególnych systemów.
@@ -290,3 +290,34 @@ Zaznacz prawidłowe zdanie:
 - X**opracować warianty decyzji ale ich nie oceniać**
 - zdefiniować problem i określić jego przyczyny
 - wdrożyć najlepszy wariant decyzji i kontrolować jego realizacje
+**Do skutecznych systemów kontroli należy** (to jest pytanie o cechy skutecznych systemów kontroli)
+- różnorodność wykorzystywanych w systemie informacji
+- X **koncentracja na strategicznych punktach kontroli**
+- X  **koordynacja z tokiem pracy w całej organizacji**
+- nastawienie na wyniki przekraczające poziom minimalny
+**Styl negocjacji opartych na zasadach cechuje:**
+- X**upieranie się przy stosowaniu obiektywnych kryteriów**
+- X**ustępowanie aby pielęgnować wzajemne stosunki**
+- wprowadzanie w błąd, do do dolnej granicy porozumienia
+- Żądanie jednostronnych korzyści jako warunku zawarcia porozumienia
+**Zaznacz prawidłowe zdanie/zdania:**
+- pierwszym etapem tworzenia struktury organizacyjnej jest określenie układu władzy w oragnizacji
+- przedstawicielem zarządzania administracyjnego był Abraham Maslov
+- X**źródłem rozpoznawania problemów w przedsiębiorstwie jest odchylenie od dotychczasowych osiągnięć**
+- X **problem decyzyjny występuje wówczas, jeśli liczba jego rozwiązań jest duża lub nieokreślona**
+**Zarządzanie operacyjne:**
+- wpływa na rozwój oferty przedsiębiorstwa wzbogacenie jej o nowe usługi i produkty
+- X**jego celem jest zapewnienie płynnej kontynuacji codziennych działań**
+- X**ułatwia dbałość o regularne dostarczanie usług lub produktów o określonej jakości**
+- dzięki niemu organizacja skupia się na planowanym zarządzaniu zmianą
+**Analiza luki strategicznej:**
+- jej celem jest określenie sytuacji konkurencyjnej firmy w sektorze
+- **odnosi się do zjawisk mierzalnych i powtarzalnych**
+- jest wykorzystywana do badania strategii dla poszczególnych produktów
+- **ilustruje dopasowanie strategii firmy do dynamiki zmian otoczenia**
+**Zarządzanie naukowe koncentrowało się na:**
+- **poprawie wyników osiąganych przez poszczególnych robotników**
+- stosowaniu technik ilościowych w kierowaniu ludźmi
+- zarządzaniu całą organizacją w celu zwiększenia integracji w łańcuchy dostaw
+- konstruktywnym planowaniu dystrybucji sprzedaży produktów
+****
