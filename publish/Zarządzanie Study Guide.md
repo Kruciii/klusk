@@ -276,48 +276,65 @@ Zaznacz prawidłowe zdanie:
 - matematyczne modele zależą od sytucji  na rynku i w przedsiębiorstwie
 - X **modele mogą wymagać nieralistycznych lub bezzasadnych założeń**
 - teoria ta zajmowała się prostymi organizacjami które są obecnie złożone
+
 **Karol Adamiecki:**
 - opracował naukowe metody mierzenia wydajności pracy
 - przyczynił się do rozwoju zasad funkcjonowania rynku
 - **sformułował prawo podziału pracy i wynikające z  tego prawa specjalizacji** (Karol Adam pracowity gościu, dzieli prace)
+
 **Wśród kryteriów oceny sformułowanej strategii wymienia się czy:**
 - X**jest odpowiednia względem przyjętego poziomu ryzyka**
 - jest adekwatna do udziału przedsiębiorstwa w rynku
 -  obejmuje odbiorców produktów i usług przedsiębiorstwa
 - X**jest odpowiednia w stosunku do posiadanych zasobów**
+
 **W procesie racjonalnego podejmowania decyzji w drugim etapie należy:**
 - ocenić warianty decyzji i wybrać najlepszy
 - X**opracować warianty decyzji ale ich nie oceniać**
 - zdefiniować problem i określić jego przyczyny
 - wdrożyć najlepszy wariant decyzji i kontrolować jego realizacje
+
 **Do skutecznych systemów kontroli należy** (to jest pytanie o cechy skutecznych systemów kontroli)
 - różnorodność wykorzystywanych w systemie informacji
 - X **koncentracja na strategicznych punktach kontroli**
 - X  **koordynacja z tokiem pracy w całej organizacji**
 - nastawienie na wyniki przekraczające poziom minimalny
+
 **Styl negocjacji opartych na zasadach cechuje:**
 - X**upieranie się przy stosowaniu obiektywnych kryteriów**
 - X**ustępowanie aby pielęgnować wzajemne stosunki**
 - wprowadzanie w błąd, do do dolnej granicy porozumienia
 - Żądanie jednostronnych korzyści jako warunku zawarcia porozumienia
+
 **Zaznacz prawidłowe zdanie/zdania:**
 - pierwszym etapem tworzenia struktury organizacyjnej jest określenie układu władzy w oragnizacji
 - przedstawicielem zarządzania administracyjnego był Abraham Maslov
 - X**źródłem rozpoznawania problemów w przedsiębiorstwie jest odchylenie od dotychczasowych osiągnięć**
 - X **problem decyzyjny występuje wówczas, jeśli liczba jego rozwiązań jest duża lub nieokreślona**
+
 **Zarządzanie operacyjne:**
 - wpływa na rozwój oferty przedsiębiorstwa wzbogacenie jej o nowe usługi i produkty
 - X**jego celem jest zapewnienie płynnej kontynuacji codziennych działań**
 - X**ułatwia dbałość o regularne dostarczanie usług lub produktów o określonej jakości**
 - dzięki niemu organizacja skupia się na planowanym zarządzaniu zmianą
+
 **Analiza luki strategicznej:**
 - jej celem jest określenie sytuacji konkurencyjnej firmy w sektorze
 - **odnosi się do zjawisk mierzalnych i powtarzalnych**
 - jest wykorzystywana do badania strategii dla poszczególnych produktów
 - **ilustruje dopasowanie strategii firmy do dynamiki zmian otoczenia**
+
 **Zarządzanie naukowe koncentrowało się na:**
 - **poprawie wyników osiąganych przez poszczególnych robotników**
 - stosowaniu technik ilościowych w kierowaniu ludźmi
 - zarządzaniu całą organizacją w celu zwiększenia integracji w łańcuchy dostaw
 - konstruktywnym planowaniu dystrybucji sprzedaży produktów
-****
+
+**Do zalet koncepcji Lean Management należy:**
+- zwracanie większej uwagi na potrzeby i życzenia klientów
+- zwiększanie luki strategicznej między przedsiębiorstwem a konkurencją
+- brak zadowolenia pracowników z lepszej komunikacji między kierownikami a podwładnymi
+- silniejsza motywacja pracowników i ich utożsamianie się z sukcesami firmy
+
+
+  
