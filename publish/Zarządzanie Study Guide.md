@@ -89,6 +89,20 @@ Chodzi o to żeby na naszym rynku więcej osób kupowało nasze produkty. Można
   - horyzontalna - jest działaniem zorientowanym na dotychczasowych klientów i polega na zaoferowaniu im nowego produktu., np. producent wprowadzający nowy wariant smakowy produkowanego napoju. 
   - konglomeratowa - oferta rozszerzana jest to produkty niezwiązane z poprzednimi, które kierowane są do całkowicie nowych odbiorców. Czasami strategia ta związana jest z zaprzestaniem produkowania wyrobów starszych.
 
+# Decyzje
+## **Racjonalny model podejmowania decyzji**
+1. Zbadaj sytuację
+	- zdefiniuj problem
+	- ustal jego przyczyny
+	- określ cele podjęcia decyzji
+2. Wyszukaj możliwe rozwiązania
+	- Szukaj twórczych rozwiązań
+	- na razie ich nie oceniaj
+3. Oceń możliwe rozwiązania i wybierz najlepsze
+4. Wdróż i sprawdzaj skutki
+	- zaplanuj wdrożenie
+	- zrealizuj plan
+	- sprawdzaj skutki i w razie potrzeby wprowadź odpowiednie korekty
 
 # Przewodzenie
 ## **Styl Demokratyczny**
@@ -258,7 +272,21 @@ Zaznacz prawidłowe zdanie:
 ## Strona 2
 
 **Do ograniczeń spojrzenia ilościowego zalicza się to że:**
-- nie jest ono w stanie w pełni wyjaśnić i przewidzieć ludzkiego zachowania w ogranizacjach
+- X **nie jest ono w stanie w pełni wyjaśnić i przewidzieć ludzkiego zachowania w ogranizacjach**
 - matematyczne modele zależą od sytucji  na rynku i w przedsiębiorstwie
-- modele mogą wymagać nieralistycznych lub bezzasadnych założeń
+- X **modele mogą wymagać nieralistycznych lub bezzasadnych założeń**
 - teoria ta zajmowała się prostymi organizacjami które są obecnie złożone
+**Karol Adamiecki:**
+- opracował naukowe metody mierzenia wydajności pracy
+- przyczynił się do rozwoju zasad funkcjonowania rynku
+- **sformułował prawo podziału pracy i wynikające z  tego prawa specjalizacji** (Karol Adam pracowity gościu, dzieli prace)
+**Wśród kryteriów oceny sformułowanej strategii wymienia się czy:**
+- X**jest odpowiednia względem przyjętego poziomu ryzyka**
+- jest adekwatna do udziału przedsiębiorstwa w rynku
+-  obejmuje odbiorców produktów i usług przedsiębiorstwa
+- X**jest odpowiednia w stosunku do posiadanych zasobów**
+**W procesie racjonalnego podejmowania decyzji w drugim etapie należy:**
+- ocenić warianty decyzji i wybrać najlepszy
+- X**opracować warianty decyzji ale ich nie oceniać**
+- zdefiniować problem i określić jego przyczyny
+- wdrożyć najlepszy wariant decyzji i kontrolować jego realizacje
