@@ -66,7 +66,26 @@ Otóż jest to analiza której celem jest określenie sytuacji konkurencyjnej fi
 ## **Styl Demokratyczny**
 Styl demokratyczny opiera się na osobie kierownika który razem z podwładnymi podejmuje ważne decyzjie dając im możliwości wypowiadania się, dyskusji. Kierownik musi być osobą charyzmatyczną tak żeby mógł przekonać swoich podwładnych do swoich tez a jednocześnie dobrze znającą się na rzeczy tak żeby te tezy były słuszne. Łatwo można wyobrazić sobie kierownika który nie jest charyzmatyczny i daje się zakrzyczeć swoim pracownikom a w rezultacie staje się albo ich marionetką albo tyranem który zaczyna podejmować decyzje bez jakichkolwiek konsultacji ze swoimi podwładnymi. Kierownik swoich pracowników motywuje nagrodami. Nie kontroluje procwsów w najmniejszym szczególe tylko zostawia to pracownikom natomiast jest otwarty na ich problemy i słucha ich uważnie.
 ## **Teoria oczekiwań Victora H. Vrooma**
+Zakłada że ludzie wybierają pomiedzy różnymi wzorcami postępowania na podstawie różnych wewnętrznych motwyacji. Motywacja człowieka jest zależna od czynników środowiskowych oraz tych tkwiących w nim samym.
 
+# Kultura organizacji
+## **Typy kultur według R. Harrisona**
+### Kultura władzy
+Jest to kultura w której wszystko skupione jest wokoło jednej centralnej osoby tj. wujka Szymona. Pełnia kontroli i informacji znajduje się właśnie tam i to oni kształtują całą firmę i decyzje którą podejmują.
+![[Pasted image 20250605132448.png]]
+### Kultura roli (Komfort)
+Opiera się na filarach natomiast zarząd jest dachem świątynii. Odpowiednia w stabilnych firmach. Cechuje ją nadmierna biurokratyzacja. Stanowisko jest ważniejsze niż pracownik. Jej siłą jest specjalizacja.
+![[Pasted image 20250605132456.png]]
+### Kultura celu (zadania) (Imo IT companies)
+- Może zostać zobrazowana jako siatka, w której niektóre liny są grubszei silniejsze odinnych. 
+- Główny naciskw tej kulturze jest położony nato, by praca została wykonana. 
+- Władza wynika z wiedzy i doświadczenia w wykonywaniu danego rodzaju zadań. 
+- Jest ukierunkowana na pracę zespołową, na grupę osiągającą wspólny cel.
+- Jej główna zaleta to możliwość przystosowywania się do zmiennych warunków.
+![[Pasted image 20250605132506.png]]
+### Kultura jednoski
+Jest zorientowana na jednostke. To organizacja działa dla jednostki a nie jesdnostka dla organizacji. Jest to zazwyczaj grupa skupiająca osoby wykonujące wolne zawody.
+![[Pasted image 20250605132607.png]]
 # Test
 
 Do przesłanek wdrażania Benchmarkingu należy to, że ta koncepcja:
@@ -110,3 +129,63 @@ Do przesłanek wdrażania Benchmarkingu należy to, że ta koncepcja:
 - X**ludzie dokonują wyborów spośród alternatywnych planów zachowania**
 - X**zachowanie człowieka jest funkcją sił tkwiących w nim samym i jego otoczeniu**
 - źródłem motywacji dla pracowników są nieuświadomione impulsy wewnętrzne
+
+**Wady Reengineering u**
+Do wad tej koncepcji należą:
+
+- Wzrost wydajności i skrócenie czasu trwania procesów.
+- X**Niedocenianie aspektów kulturowych, co może prowadzić do silnego oporu wobec zmian.**
+- X **Pomijanie pracowników w trakcie przygotowywania reorganizacji**.
+- Niskie koszty wdrażania tej koncepcji i realizacji szkoleń.
+**Cykl życia produktu**
+
+Cykl  życia produktu różni się w zależności od:
+
+- X**Struktury podmiotów działających na rynku.**
+- Możliwości zróżnicowania kanałów dystrybucji.
+- **Postępu technicznego i technologicznego w sferze wytwarzania.**
+- Możliwości zwiększenia sprzedaży produktu na dotychczasowym rynku.(imo to tez)
+
+**Zaznacz prawidłowe zdanie**
+
+- Kultura roli najlepiej sprawdza się w małych organizacjach.
+- X**Kultura celu jest ukierunkowana na pracę zespołową, na grupę osiągającą wspólny cel.**
+- W kulturze roli władza wynika z wiedzy i doświadczenia w wykonywaniu danego rodzaju zadań.
+- X**Kultura jednostki jest stworzona dla pracownika i służy zaspokojeniu jego potrzeb zawodowych.**
+
+**Zalety struktury funkcjonalnej**
+
+Do zalet struktury funkcjonalnej należą:
+
+- Możliwość bezpośrednich kontaktów ze specjalistami.
+- wysoką centralizacją w podejmowaniu decyzji
+- Zdolność szybkiego reagowania na zmiany w organizacji.
+- Przestrzeganie zasady jednoosobowego kierownictwa.
+
+**Strategia penetracji rynku w modelu strategii H.I. Ansoffa**
+
+Strategia ta polega na:
+
+- Zdobyciu nowych klientów poprzez złamanie ich lojalności wobec poprzednich dostawców.
+- Oferowaniu na istniejącym rynku nowych lub zmodyfikowanych produktów.
+- Wejściu z produktami na nowe, wcześniej nieobsługiwane segmenty rynku.
+- Zdobyciu nowych klientów, którzy do tej pory nie kupowali danego produktu.
+
+**Cechy zarządzania strategicznego**
+
+Jedną z cech zarządzania strategicznego jest to, że:
+
+- Występuje w nim określony poziom ryzyka w zakresie wyników finansowych.
+- Nie istnieje jeden, najwłaściwszy sposób formułowania strategii.
+- W procesie formułowania strategii uwzględnia się zarówno metody empiryczne, jak i dedukcyjne.
+- opiera się tylko na danych ilościowych i nie uwzględnia danych jakościowych
+
+**Kultura organizacyjna**
+
+Zaznacz prawidłowe zdanie:
+
+- Według M. Armstronga kulturę budują liderzy, kreujący misję i wizję organizacji.
+- W modelu kultury organizacji wg Scheina symbole i artefakty są niewidoczne i nieświadome.
+- Zarządzanie administracyjne koncentruje się na zarządzaniu całą organizacją.
+- Podejście sytuacyjne nie jest w stanie wyjaśnić ludzkich zachowań w organizacjach.
+
