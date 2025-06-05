@@ -36,9 +36,64 @@ Ogólnie rzecz ujmując nurt behawioralny kładzie nacisk na człowieka jako jed
 - Menadżerowie są niechętni na wprowadzanie behawioralnych koncepcji.
 - Współczesne rezultaty badań nie docierają do praktyków. 
 Czyli ludzie wierzą w teorie X a nie w teorie Y.
-## Reengineering
+# **3. Reengineering**
 ## Odpowiedź na pytanie 
 Wynagrodzenie staje się zależne od efektywności  a nie od samej aktywności. Podobnie o awansie decyduje przydatność a nie osiągane wyniki
 ## Czym jest Reengineering 
-Jest to wzięcie na tapet procesów które akutalnie istnieją w firmie i przeprojektowanie ich od podstaw. To przeprojektowanie zachodzi w kilku krokach. Najpierw identyfikujemy procesy najważniejsze, wybieramy dany proces, tworzymy zespół który zajmuje się danym procesem, analizujemy ten proces, rekonstruujemy go i wdrażamy.
+Jest to wzięcie na tapet procesów które aktualnie istnieją w firmie i przeprojektowanie ich od podstaw. To przeprojektowanie zachodzi w kilku krokach. Najpierw identyfikujemy procesy najważniejsze, wybieramy dany proces, tworzymy zespół który zajmuje się danym procesem, analizujemy ten proces, rekonstruujemy go i wdrażamy.
 Jak można się domyślić reengineering jest dosyć kosztowny i trudny w realizacji i niesie za sobą wiele ryzyka. Natomiast jeśli jest wykonany poprawnie potrafi przynieść bardzo duże wzrosty wydajności. 
+# **4. Bariery w ustalaniu celów**
+
+
+# Benchmarking
+Benchmarking to porównywanie się z innymi firmami które są liderami w branży. 
+### Piosenka o Benchmarkingu
+Benchmarking to analizowanie klientów
+Tych których bardzo nie lubisz i tych z którymi sie czubisz
+
+Koniec
+# Test
+
+Do przesłanek wdrażania Benchmarkingu należy to, że ta koncepcja:
+
+- X **pomaga wyznaczać ambitne, ale możliwe do osiągnięcia cele**
+- X **umożliwia identyfikację pozycji konkurencyjnej organizacji**
+- zwiększa potrzebę większej rotacji pracowników na stanowiskach
+- pozwala na ograniczanie i rozwiązywanie konfliktów
+
+**Zaznacz prawdziwe zdanie/a:**
+
+- podstawą koncepcji łańcucha wartości jest systemowe podejście do biznesu
+- metody scenariuszowe pozwalają firmie określić kluczowe czynniki sukcesu
+- macierz BCG jest stosowana w badaniach zmian nieciągłych na rynku
+- celem analizy "5 sił Portera" jest określenie sytuacji konkurencyjnej firmy w sektorze
+
+**Do najczęstszych błędów przy dokonywaniu zmian należy:**
+
+- skuteczne przekonywanie ludzi do konieczności zmiany
+- zbyt duża ilość zasobów materialnych i niematerialnych utrudniająca organizację pracy
+- wprowadzanie zbyt wielu zmian w zbyt krótkim czasie
+- niskiej jakości analizy, oceny i monitorowanie rezultatów zmiany
+
+**Demokratyczny styl przewodzenia cechuje to, że:**
+
+- wymaga od kierownika umiejętności wczuwania się w sytuację współpracowników
+- kierownik w minimalnym stopniu interesuje się problemami swoich podwładnych
+- wymaga od kierownika silnej osobowości i ugruntowanej wiedzy fachowej
+- kierownik niechętnie przyjmuje przejawy inicjatywy ze strony podwładnych
+
+**Do przyczyn niepowodzeń w planowaniu należy:**
+
+- przygotowywanie planów przez grupę odrębną, nieuczestniczącą w zarządzaniu firmą
+- zbyt skomplikowane plany wynikające z dążenia planistów do uwzględnienia zmian w otoczeniu
+- opracowywanie prostych planów, które dotyczą tylko poszczególnych funkcji działania
+- uwzględnianie zmian koniunkturalnych na rynku i bazowanie na prognozach
+
+**Teoria oczekiwań Victora H. Vrooma zakłada, że:**
+
+- ludzie dążą do sprawiedliwości społecznej i porównują się do współpracowników
+- ludzie dokonują wyborów spośród alternatywnych planów zachowania
+- zachowanie człowieka jest funkcją sił tkwiących w nim samym i jego otoczeniu
+- źródłem motywacji dla pracowników są nieuświadomione impulsy wewnętrzne
+
+22.06.2024
