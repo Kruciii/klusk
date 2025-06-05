@@ -119,7 +119,6 @@ Jest zorientowana na jednostke. To organizacja działa dla jednostki a nie jesdn
 
 # Testy
 [[Test 1]] - 22.06.2024
-
 [[Quiz Wiedzy]]
 
 
