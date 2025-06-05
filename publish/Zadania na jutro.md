@@ -1,7 +1,0 @@
-- [ ] Ekonometria nauczyć się wzrorów (Anki)
-- [ ] Ekonometria dokończyć notatki
-- [ ] Ekonometria zadania discord
-- [ ] SQL powtórzyć polecenia
-- [ ] SQL powtórzyć najtrudniejsze zadania
-- [ ] Teoria porfela
-- [ ] 
