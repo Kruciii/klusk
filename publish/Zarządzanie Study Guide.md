@@ -118,8 +118,8 @@ Do przesłanek wdrażania Benchmarkingu należy to, że ta koncepcja:
 
 **Do przyczyn niepowodzeń w planowaniu należy:**
 
-- **przygotowywanie planów przez grupę odrębną, nieuczestniczącą w zarządzaniu firmą**
-- **zbyt skomplikowane plany wynikające z dążenia planistów do uwzględnienia zmian w otoczeniu**
+- X **przygotowywanie planów przez grupę odrębną, nieuczestniczącą w zarządzaniu firmą**
+- X **zbyt skomplikowane plany wynikające z dążenia planistów do uwzględnienia zmian w otoczeniu**
 - opracowywanie prostych planów, które dotyczą tylko poszczególnych funkcji działania
 - uwzględnianie zmian koniunkturalnych na rynku i bazowanie na prognozach
 
