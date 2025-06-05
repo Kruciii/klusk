@@ -16,3 +16,4 @@ excerpt: Create your own template or use someone else's. Changing the template i
 10. Jest po prostu the best kluska ever :))
 [[Testy Ekonometryczne Part 2]]
 [[Zadania na jutro]]
+[[Zarządzanie Study Guide]]
